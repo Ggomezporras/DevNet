@@ -1,0 +1,10 @@
+<museo>
+	<cuadro>
+		<pintor>Velazquez</pintor>
+		<titulo>Las meninas</titulo>
+	</cuadro>
+	<cuadro>
+		<pintor>Goya</pintor>
+		<titulo>El aquelarre</titulo>
+	</cuadro>
+</museo>

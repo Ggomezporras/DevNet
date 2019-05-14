@@ -1,0 +1,25 @@
+
+{
+	"netstat-a": {
+		"resultado": [
+			{
+				"protocolo": "TCP",
+				"direccionLocal": "0.0.0.0:135",
+				"direccionRemota": "DESKTOP-CD9VBL7:0",
+				"estado": "Listening"
+			},
+			{
+				"protocolo": "TCP",
+				"direccionLocal": "0.0.0.0:445",
+				"direccionRemota": "DESKTOP-CD9VBL7:0",
+				"estado": "Listening"
+			},
+			{
+				"protocolo": "TCP",
+				"direccionLocal": "0.0.0.0:902",
+				"direccionRemota": "DESKTOP-CD9VBL7:0",
+				"estado": "Listening"
+			}
+		]
+	}
+}

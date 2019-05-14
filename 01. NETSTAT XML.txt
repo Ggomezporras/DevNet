@@ -1,0 +1,20 @@
+<netstat-a>
+	<resultado>
+		<protocolo>TCP</protocolo>
+		<direccionLocal>0.0.0.0:135</direccionLocal>
+		<direccionRemota>DESKTOP-CD9VBL7:0</direccionRemota>
+		<estado>Listening</estado>
+	</resultado>
+	<resultado>
+		<protocolo>TCP</protocolo>
+		<direccionLocal>0.0.0.0:445</direccionLocal>
+		<direccionRemota>DESKTOP-CD9VBL7:0</direccionRemota>
+		<estado>Listening</estado>
+	</resultado>
+	<resultado>
+		<protocolo>TCP</protocolo>
+		<direccionLocal>0.0.0.0:902</direccionLocal>
+		<direccionRemota>DESKTOP-CD9VBL7:0</direccionRemota>
+		<estado>Listening</estado>
+	</resultado>
+</netstat-a>

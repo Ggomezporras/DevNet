@@ -1,0 +1,14 @@
+{
+	"museo": {
+		"cuadro": [
+			{
+				"pintor": "Velazquez",
+				"titulo": "Las meninas"
+			},
+			{
+				"pintor": "Goya",
+				"titulo": "El aquelarre"
+			}
+		]
+	}
+}
